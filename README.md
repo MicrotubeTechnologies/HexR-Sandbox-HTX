@@ -168,4 +168,16 @@ To set up `SpecialHaptics`:
 
 &nbsp;
 
+<details>
+<summary> Demo Scene : HexR Sandbox </summary>
+ 
+## **Demo Scene : HexR Sandbox **
 
+#### The **HexR Sandbox** demo scene contains the basic grab, rain/fountain, button puzzle and emergency training scenario.
+
+![image](https://github.com/user-attachments/assets/05c85795-9bdd-4ebf-842d-5baaffc2699d)
+
+![image](https://github.com/user-attachments/assets/a2172546-02ff-4f2f-ab1e-ed8446b38f53)
+
+
+</details>
